@@ -1,0 +1,21 @@
+body {
+    background-color: #000000;
+    color: whitesmoke
+}
+
+#title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    padding-top: 50px;
+}
+
+#remainder{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    padding-top: 50px;
+}
+
+
+
